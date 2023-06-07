@@ -1,4 +1,4 @@
-The Micro11 Control Panel is a file to enable/disable some hidden windows features.
+The Micro11 Control Panel is a script to enable/disable some hidden windows features.
 
 It is not finished and some features may not work as intended, so be careful.
 

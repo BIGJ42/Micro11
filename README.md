@@ -8,6 +8,8 @@ The "Micro11 Debloater" Option on the program will run code that completely debl
 
 The script may be unstable and can cause problems if used incorrectly, so use with caution and only use if you know what you are doing.
 
+The script is in early development and some things may not function as intended.
+
 I can promise you that there are no viruses in the script whatsoever, for those wondering.
 
 Please report any issues on the github in the issues tab.
